@@ -1,0 +1,11 @@
+hospital_id,hospital_name,city,hospital_type,total_beds
+H001,City General Hospital,Pune,General,80
+H002,Sunrise Medical Center,Mumbai,Multi-Specialty,120
+H003,Metro Care Hospital,Nashik,General,70
+H004,Lifeline Hospital,Kolhapur,Multi-Specialty,150
+H005,Green Valley Hospital,Nagpur,General,90
+H006,Unity Medical Center,Aurangabad,Multi-Specialty,110
+H007,Hopewell Hospital,Satara,General,60
+H008,Central Health Institute,Sangli,Teaching,140
+H009,Apollo Care Hospital,Thane,Multi-Specialty,130
+H010,Riverfront Medical Center,Navi Mumbai,General,75

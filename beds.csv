@@ -1,0 +1,1026 @@
+bed_id,hospital_id,ward,room_number,bed_number,bed_type,status,last_updated
+B0001,H001,Pediatrics,100,2,Pediatric,Occupied,2026-08-24
+B0002,H001,General Ward,100,1,General,Occupied,2026-08-24
+B0003,H001,Pediatrics,101,2,Pediatric,Occupied,2026-08-24
+B0004,H001,Emergency,101,1,Emergency,Available,2026-08-24
+B0005,H001,General Ward,102,2,General,Occupied,2026-08-24
+B0006,H001,Maternity,102,1,Maternity,Occupied,2026-08-24
+B0007,H001,Emergency,103,2,Emergency,Available,2026-08-24
+B0008,H001,Pediatrics,103,1,Pediatric,Available,2026-08-24
+B0009,H001,General Ward,104,2,General,Occupied,2026-08-24
+B0010,H001,General Ward,104,1,General,Occupied,2026-08-24
+B0011,H001,General Ward,105,2,General,Available,2026-08-24
+B0012,H001,Maternity,105,1,Maternity,Occupied,2026-08-24
+B0013,H001,ICU,106,2,ICU,Occupied,2026-08-24
+B0014,H001,Pediatrics,106,1,Pediatric,Occupied,2026-08-24
+B0015,H001,General Ward,107,2,General,Occupied,2026-08-24
+B0016,H001,General Ward,107,1,General,Available,2026-08-24
+B0017,H001,ICU,108,2,ICU,Occupied,2026-08-24
+B0018,H001,General Ward,108,1,General,Occupied,2026-08-24
+B0019,H001,Pediatrics,109,2,Pediatric,Occupied,2026-08-24
+B0020,H001,ICU,109,1,ICU,Available,2026-08-24
+B0021,H001,Emergency,110,2,Emergency,Occupied,2026-08-24
+B0022,H001,General Ward,110,1,General,Available,2026-08-24
+B0023,H001,Maternity,111,2,Maternity,Occupied,2026-08-24
+B0024,H001,Maternity,111,1,Maternity,Occupied,2026-08-24
+B0025,H001,Pediatrics,112,2,Pediatric,Occupied,2026-08-24
+B0026,H001,General Ward,112,1,General,Occupied,2026-08-24
+B0027,H001,General Ward,113,2,General,Available,2026-08-24
+B0028,H001,General Ward,113,1,General,Occupied,2026-08-24
+B0029,H001,General Ward,114,2,General,Occupied,2026-08-24
+B0030,H001,Emergency,114,1,Emergency,Available,2026-08-24
+B0031,H001,Emergency,115,2,Emergency,Available,2026-08-24
+B0032,H001,Maternity,115,1,Maternity,Occupied,2026-08-24
+B0033,H001,General Ward,116,2,General,Occupied,2026-08-24
+B0034,H001,General Ward,116,1,General,Occupied,2026-08-24
+B0035,H001,General Ward,117,2,General,Occupied,2026-08-24
+B0036,H001,General Ward,117,1,General,Occupied,2026-08-24
+B0037,H001,General Ward,118,2,General,Occupied,2026-08-24
+B0038,H001,General Ward,118,1,General,Occupied,2026-08-24
+B0039,H001,General Ward,119,2,General,Occupied,2026-08-24
+B0040,H001,Emergency,119,1,Emergency,Occupied,2026-08-24
+B0041,H001,General Ward,120,2,General,Available,2026-08-24
+B0042,H001,Pediatrics,120,1,Pediatric,Available,2026-08-24
+B0043,H001,Emergency,121,2,Emergency,Occupied,2026-08-24
+B0044,H001,General Ward,121,1,General,Occupied,2026-08-24
+B0045,H001,Pediatrics,122,2,Pediatric,Occupied,2026-08-24
+B0046,H001,Pediatrics,122,1,Pediatric,Occupied,2026-08-24
+B0047,H001,General Ward,123,2,General,Available,2026-08-24
+B0048,H001,General Ward,123,1,General,Available,2026-08-24
+B0049,H001,Emergency,124,2,Emergency,Occupied,2026-08-24
+B0050,H001,General Ward,124,1,General,Occupied,2026-08-24
+B0051,H001,General Ward,125,2,General,Occupied,2026-08-24
+B0052,H001,General Ward,125,1,General,Occupied,2026-08-24
+B0053,H001,Pediatrics,126,2,Pediatric,Occupied,2026-08-24
+B0054,H001,Emergency,126,1,Emergency,Occupied,2026-08-24
+B0055,H001,Emergency,127,2,Emergency,Occupied,2026-08-24
+B0056,H001,Pediatrics,127,1,Pediatric,Occupied,2026-08-24
+B0057,H001,General Ward,128,2,General,Occupied,2026-08-24
+B0058,H001,ICU,128,1,ICU,Available,2026-08-24
+B0059,H001,General Ward,129,2,General,Available,2026-08-24
+B0060,H001,General Ward,129,1,General,Available,2026-08-24
+B0061,H001,Emergency,130,2,Emergency,Occupied,2026-08-24
+B0062,H001,General Ward,130,1,General,Occupied,2026-08-24
+B0063,H001,ICU,131,2,ICU,Available,2026-08-24
+B0064,H001,Emergency,131,1,Emergency,Available,2026-08-24
+B0065,H001,ICU,132,2,ICU,Available,2026-08-24
+B0066,H001,ICU,132,1,ICU,Occupied,2026-08-24
+B0067,H001,ICU,133,2,ICU,Occupied,2026-08-24
+B0068,H001,General Ward,133,1,General,Occupied,2026-08-24
+B0069,H001,General Ward,134,2,General,Occupied,2026-08-24
+B0070,H001,General Ward,134,1,General,Occupied,2026-08-24
+B0071,H001,General Ward,135,2,General,Available,2026-08-24
+B0072,H001,General Ward,135,1,General,Occupied,2026-08-24
+B0073,H001,Pediatrics,136,2,Pediatric,Occupied,2026-08-24
+B0074,H001,General Ward,136,1,General,Available,2026-08-24
+B0075,H001,General Ward,137,2,General,Occupied,2026-08-24
+B0076,H001,General Ward,137,1,General,Available,2026-08-24
+B0077,H001,General Ward,138,2,General,Occupied,2026-08-24
+B0078,H001,Emergency,138,1,Emergency,Occupied,2026-08-24
+B0079,H001,ICU,139,2,ICU,Available,2026-08-24
+B0080,H001,Pediatrics,139,1,Pediatric,Occupied,2026-08-24
+B0081,H002,Emergency,100,2,Emergency,Available,2026-08-24
+B0082,H002,General Ward,100,1,General,Occupied,2026-08-24
+B0083,H002,Pediatrics,101,2,Pediatric,Occupied,2026-08-24
+B0084,H002,General Ward,101,1,General,Maintenance,2026-08-24
+B0085,H002,General Ward,102,2,General,Occupied,2026-08-24
+B0086,H002,General Ward,102,1,General,Available,2026-08-24
+B0087,H002,Emergency,103,2,Emergency,Available,2026-08-24
+B0088,H002,General Ward,103,1,General,Occupied,2026-08-24
+B0089,H002,General Ward,104,2,General,Occupied,2026-08-24
+B0090,H002,General Ward,104,1,General,Available,2026-08-24
+B0091,H002,General Ward,105,2,General,Maintenance,2026-08-24
+B0092,H002,Emergency,105,1,Emergency,Occupied,2026-08-24
+B0093,H002,General Ward,106,2,General,Maintenance,2026-08-24
+B0094,H002,General Ward,106,1,General,Available,2026-08-24
+B0095,H002,General Ward,107,2,General,Occupied,2026-08-24
+B0096,H002,ICU,107,1,ICU,Available,2026-08-24
+B0097,H002,General Ward,108,2,General,Available,2026-08-24
+B0098,H002,General Ward,108,1,General,Occupied,2026-08-24
+B0099,H002,General Ward,109,2,General,Available,2026-08-24
+B0100,H002,Maternity,109,1,Maternity,Available,2026-08-24
+B0101,H002,Maternity,110,2,Maternity,Available,2026-08-24
+B0102,H002,Emergency,110,1,Emergency,Occupied,2026-08-24
+B0103,H002,General Ward,111,2,General,Occupied,2026-08-24
+B0104,H002,Maternity,111,1,Maternity,Occupied,2026-08-24
+B0105,H002,Pediatrics,112,2,Pediatric,Occupied,2026-08-24
+B0106,H002,Emergency,112,1,Emergency,Occupied,2026-08-24
+B0107,H002,General Ward,113,2,General,Available,2026-08-24
+B0108,H002,General Ward,113,1,General,Available,2026-08-24
+B0109,H002,General Ward,114,2,General,Occupied,2026-08-24
+B0110,H002,Maternity,114,1,Maternity,Available,2026-08-24
+B0111,H002,General Ward,115,2,General,Available,2026-08-24
+B0112,H002,General Ward,115,1,General,Available,2026-08-24
+B0113,H002,General Ward,116,2,General,Occupied,2026-08-24
+B0114,H002,ICU,116,1,ICU,Occupied,2026-08-24
+B0115,H002,General Ward,117,2,General,Occupied,2026-08-24
+B0116,H002,Pediatrics,117,1,Pediatric,Available,2026-08-24
+B0117,H002,Emergency,118,2,Emergency,Occupied,2026-08-24
+B0118,H002,Emergency,118,1,Emergency,Occupied,2026-08-24
+B0119,H002,General Ward,119,2,General,Occupied,2026-08-24
+B0120,H002,ICU,119,1,ICU,Occupied,2026-08-24
+B0121,H002,ICU,120,2,ICU,Available,2026-08-24
+B0122,H002,ICU,120,1,ICU,Maintenance,2026-08-24
+B0123,H002,General Ward,121,2,General,Occupied,2026-08-24
+B0124,H002,General Ward,121,1,General,Occupied,2026-08-24
+B0125,H002,General Ward,122,2,General,Available,2026-08-24
+B0126,H002,General Ward,122,1,General,Available,2026-08-24
+B0127,H002,General Ward,123,2,General,Occupied,2026-08-24
+B0128,H002,General Ward,123,1,General,Occupied,2026-08-24
+B0129,H002,General Ward,124,2,General,Occupied,2026-08-24
+B0130,H002,ICU,124,1,ICU,Occupied,2026-08-24
+B0131,H002,General Ward,125,2,General,Occupied,2026-08-24
+B0132,H002,Maternity,125,1,Maternity,Available,2026-08-24
+B0133,H002,ICU,126,2,ICU,Available,2026-08-24
+B0134,H002,General Ward,126,1,General,Available,2026-08-24
+B0135,H002,ICU,127,2,ICU,Occupied,2026-08-24
+B0136,H002,General Ward,127,1,General,Available,2026-08-24
+B0137,H002,Maternity,128,2,Maternity,Available,2026-08-24
+B0138,H002,General Ward,128,1,General,Occupied,2026-08-24
+B0139,H002,Pediatrics,129,2,Pediatric,Available,2026-08-24
+B0140,H002,General Ward,129,1,General,Occupied,2026-08-24
+B0141,H002,General Ward,130,2,General,Available,2026-08-24
+B0142,H002,General Ward,130,1,General,Occupied,2026-08-24
+B0143,H002,Maternity,131,2,Maternity,Occupied,2026-08-24
+B0144,H002,ICU,131,1,ICU,Occupied,2026-08-24
+B0145,H002,General Ward,132,2,General,Available,2026-08-24
+B0146,H002,General Ward,132,1,General,Occupied,2026-08-24
+B0147,H002,General Ward,133,2,General,Occupied,2026-08-24
+B0148,H002,General Ward,133,1,General,Occupied,2026-08-24
+B0149,H002,General Ward,134,2,General,Available,2026-08-24
+B0150,H002,General Ward,134,1,General,Available,2026-08-24
+B0151,H002,Pediatrics,135,2,Pediatric,Occupied,2026-08-24
+B0152,H002,Maternity,135,1,Maternity,Available,2026-08-24
+B0153,H002,General Ward,136,2,General,Available,2026-08-24
+B0154,H002,ICU,136,1,ICU,Occupied,2026-08-24
+B0155,H002,General Ward,137,2,General,Available,2026-08-24
+B0156,H002,Emergency,137,1,Emergency,Available,2026-08-24
+B0157,H002,General Ward,138,2,General,Available,2026-08-24
+B0158,H002,Emergency,138,1,Emergency,Available,2026-08-24
+B0159,H002,Emergency,139,2,Emergency,Occupied,2026-08-24
+B0160,H002,Emergency,139,1,Emergency,Available,2026-08-24
+B0161,H002,General Ward,140,2,General,Occupied,2026-08-24
+B0162,H002,Maternity,140,1,Maternity,Occupied,2026-08-24
+B0163,H002,General Ward,141,2,General,Occupied,2026-08-24
+B0164,H002,General Ward,141,1,General,Available,2026-08-24
+B0165,H002,ICU,142,2,ICU,Occupied,2026-08-24
+B0166,H002,General Ward,142,1,General,Available,2026-08-24
+B0167,H002,Pediatrics,143,2,Pediatric,Occupied,2026-08-24
+B0168,H002,Pediatrics,143,1,Pediatric,Occupied,2026-08-24
+B0169,H002,General Ward,144,2,General,Available,2026-08-24
+B0170,H002,Maternity,144,1,Maternity,Available,2026-08-24
+B0171,H002,General Ward,145,2,General,Occupied,2026-08-24
+B0172,H002,General Ward,145,1,General,Available,2026-08-24
+B0173,H002,General Ward,146,2,General,Available,2026-08-24
+B0174,H002,Maternity,146,1,Maternity,Occupied,2026-08-24
+B0175,H002,General Ward,147,2,General,Occupied,2026-08-24
+B0176,H002,General Ward,147,1,General,Occupied,2026-08-24
+B0177,H002,General Ward,148,2,General,Available,2026-08-24
+B0178,H002,Maternity,148,1,Maternity,Available,2026-08-24
+B0179,H002,Maternity,149,2,Maternity,Occupied,2026-08-24
+B0180,H002,Emergency,149,1,Emergency,Occupied,2026-08-24
+B0181,H002,Maternity,150,2,Maternity,Available,2026-08-24
+B0182,H002,Maternity,150,1,Maternity,Available,2026-08-24
+B0183,H002,General Ward,151,2,General,Available,2026-08-24
+B0184,H002,General Ward,151,1,General,Maintenance,2026-08-24
+B0185,H002,Pediatrics,152,2,Pediatric,Occupied,2026-08-24
+B0186,H002,Emergency,152,1,Emergency,Occupied,2026-08-24
+B0187,H002,General Ward,153,2,General,Occupied,2026-08-24
+B0188,H002,General Ward,153,1,General,Available,2026-08-24
+B0189,H002,Emergency,154,2,Emergency,Available,2026-08-24
+B0190,H002,General Ward,154,1,General,Available,2026-08-24
+B0191,H002,Maternity,155,2,Maternity,Occupied,2026-08-24
+B0192,H002,General Ward,155,1,General,Occupied,2026-08-24
+B0193,H002,General Ward,156,2,General,Available,2026-08-24
+B0194,H002,Pediatrics,156,1,Pediatric,Occupied,2026-08-24
+B0195,H002,General Ward,157,2,General,Occupied,2026-08-24
+B0196,H002,General Ward,157,1,General,Available,2026-08-24
+B0197,H002,ICU,158,2,ICU,Occupied,2026-08-24
+B0198,H002,Pediatrics,158,1,Pediatric,Occupied,2026-08-24
+B0199,H002,General Ward,159,2,General,Occupied,2026-08-24
+B0200,H002,General Ward,159,1,General,Occupied,2026-08-24
+B0201,H003,Pediatrics,100,2,Pediatric,Occupied,2026-08-24
+B0202,H003,Maternity,100,1,Maternity,Occupied,2026-08-24
+B0203,H003,General Ward,101,2,General,Occupied,2026-08-24
+B0204,H003,General Ward,101,1,General,Available,2026-08-24
+B0205,H003,General Ward,102,2,General,Occupied,2026-08-24
+B0206,H003,General Ward,102,1,General,Occupied,2026-08-24
+B0207,H003,General Ward,103,2,General,Occupied,2026-08-24
+B0208,H003,Emergency,103,1,Emergency,Available,2026-08-24
+B0209,H003,General Ward,104,2,General,Occupied,2026-08-24
+B0210,H003,General Ward,104,1,General,Occupied,2026-08-24
+B0211,H003,Emergency,105,2,Emergency,Occupied,2026-08-24
+B0212,H003,ICU,105,1,ICU,Occupied,2026-08-24
+B0213,H003,General Ward,106,2,General,Occupied,2026-08-24
+B0214,H003,Pediatrics,106,1,Pediatric,Occupied,2026-08-24
+B0215,H003,Emergency,107,2,Emergency,Occupied,2026-08-24
+B0216,H003,Emergency,107,1,Emergency,Available,2026-08-24
+B0217,H003,General Ward,108,2,General,Occupied,2026-08-24
+B0218,H003,General Ward,108,1,General,Available,2026-08-24
+B0219,H003,Maternity,109,2,Maternity,Available,2026-08-24
+B0220,H003,General Ward,109,1,General,Occupied,2026-08-24
+B0221,H003,General Ward,110,2,General,Occupied,2026-08-24
+B0222,H003,General Ward,110,1,General,Occupied,2026-08-24
+B0223,H003,Emergency,111,2,Emergency,Occupied,2026-08-24
+B0224,H003,Maternity,111,1,Maternity,Occupied,2026-08-24
+B0225,H003,General Ward,112,2,General,Occupied,2026-08-24
+B0226,H003,Maternity,112,1,Maternity,Occupied,2026-08-24
+B0227,H003,General Ward,113,2,General,Available,2026-08-24
+B0228,H003,ICU,113,1,ICU,Occupied,2026-08-24
+B0229,H003,ICU,114,2,ICU,Occupied,2026-08-24
+B0230,H003,General Ward,114,1,General,Occupied,2026-08-24
+B0231,H003,General Ward,115,2,General,Occupied,2026-08-24
+B0232,H003,General Ward,115,1,General,Occupied,2026-08-24
+B0233,H003,Maternity,116,2,Maternity,Occupied,2026-08-24
+B0234,H003,ICU,116,1,ICU,Occupied,2026-08-24
+B0235,H003,Maternity,117,2,Maternity,Occupied,2026-08-24
+B0236,H003,Pediatrics,117,1,Pediatric,Available,2026-08-24
+B0237,H003,General Ward,118,2,General,Occupied,2026-08-24
+B0238,H003,Pediatrics,118,1,Pediatric,Available,2026-08-24
+B0239,H003,General Ward,119,2,General,Occupied,2026-08-24
+B0240,H003,General Ward,119,1,General,Available,2026-08-24
+B0241,H003,Pediatrics,120,2,Pediatric,Occupied,2026-08-24
+B0242,H003,Pediatrics,120,1,Pediatric,Occupied,2026-08-24
+B0243,H003,General Ward,121,2,General,Occupied,2026-08-24
+B0244,H003,General Ward,121,1,General,Occupied,2026-08-24
+B0245,H003,ICU,122,2,ICU,Occupied,2026-08-24
+B0246,H003,Pediatrics,122,1,Pediatric,Occupied,2026-08-24
+B0247,H003,ICU,123,2,ICU,Occupied,2026-08-24
+B0248,H003,General Ward,123,1,General,Occupied,2026-08-24
+B0249,H003,General Ward,124,2,General,Occupied,2026-08-24
+B0250,H003,General Ward,124,1,General,Occupied,2026-08-24
+B0251,H003,Emergency,125,2,Emergency,Available,2026-08-24
+B0252,H003,Pediatrics,125,1,Pediatric,Occupied,2026-08-24
+B0253,H003,General Ward,126,2,General,Available,2026-08-24
+B0254,H003,General Ward,126,1,General,Occupied,2026-08-24
+B0255,H003,General Ward,127,2,General,Occupied,2026-08-24
+B0256,H003,Emergency,127,1,Emergency,Occupied,2026-08-24
+B0257,H003,Pediatrics,128,2,Pediatric,Occupied,2026-08-24
+B0258,H003,General Ward,128,1,General,Occupied,2026-08-24
+B0259,H003,General Ward,129,2,General,Occupied,2026-08-24
+B0260,H003,ICU,129,1,ICU,Available,2026-08-24
+B0261,H003,General Ward,130,2,General,Available,2026-08-24
+B0262,H003,Pediatrics,130,1,Pediatric,Occupied,2026-08-24
+B0263,H003,General Ward,131,2,General,Occupied,2026-08-24
+B0264,H003,General Ward,131,1,General,Occupied,2026-08-24
+B0265,H003,Maternity,132,2,Maternity,Available,2026-08-24
+B0266,H003,General Ward,132,1,General,Available,2026-08-24
+B0267,H003,General Ward,133,2,General,Occupied,2026-08-24
+B0268,H003,General Ward,133,1,General,Available,2026-08-24
+B0269,H003,General Ward,134,2,General,Occupied,2026-08-24
+B0270,H003,General Ward,134,1,General,Occupied,2026-08-24
+B0271,H004,General Ward,100,2,General,Available,2026-08-24
+B0272,H004,General Ward,100,1,General,Occupied,2026-08-24
+B0273,H004,General Ward,101,2,General,Occupied,2026-08-24
+B0274,H004,ICU,101,1,ICU,Occupied,2026-08-24
+B0275,H004,Emergency,102,2,Emergency,Available,2026-08-24
+B0276,H004,General Ward,102,1,General,Occupied,2026-08-24
+B0277,H004,General Ward,103,2,General,Occupied,2026-08-24
+B0278,H004,General Ward,103,1,General,Maintenance,2026-08-24
+B0279,H004,Pediatrics,104,2,Pediatric,Available,2026-08-24
+B0280,H004,Pediatrics,104,1,Pediatric,Occupied,2026-08-24
+B0281,H004,General Ward,105,2,General,Available,2026-08-24
+B0282,H004,General Ward,105,1,General,Occupied,2026-08-24
+B0283,H004,General Ward,106,2,General,Available,2026-08-24
+B0284,H004,General Ward,106,1,General,Available,2026-08-24
+B0285,H004,ICU,107,2,ICU,Available,2026-08-24
+B0286,H004,General Ward,107,1,General,Available,2026-08-24
+B0287,H004,General Ward,108,2,General,Available,2026-08-24
+B0288,H004,General Ward,108,1,General,Occupied,2026-08-24
+B0289,H004,General Ward,109,2,General,Available,2026-08-24
+B0290,H004,General Ward,109,1,General,Occupied,2026-08-24
+B0291,H004,Pediatrics,110,2,Pediatric,Occupied,2026-08-24
+B0292,H004,General Ward,110,1,General,Available,2026-08-24
+B0293,H004,Maternity,111,2,Maternity,Available,2026-08-24
+B0294,H004,General Ward,111,1,General,Available,2026-08-24
+B0295,H004,Pediatrics,112,2,Pediatric,Occupied,2026-08-24
+B0296,H004,Maternity,112,1,Maternity,Available,2026-08-24
+B0297,H004,Maternity,113,2,Maternity,Available,2026-08-24
+B0298,H004,Pediatrics,113,1,Pediatric,Available,2026-08-24
+B0299,H004,Pediatrics,114,2,Pediatric,Available,2026-08-24
+B0300,H004,ICU,114,1,ICU,Available,2026-08-24
+B0301,H004,Pediatrics,115,2,Pediatric,Available,2026-08-24
+B0302,H004,General Ward,115,1,General,Occupied,2026-08-24
+B0303,H004,General Ward,116,2,General,Available,2026-08-24
+B0304,H004,General Ward,116,1,General,Available,2026-08-24
+B0305,H004,Pediatrics,117,2,Pediatric,Available,2026-08-24
+B0306,H004,General Ward,117,1,General,Available,2026-08-24
+B0307,H004,General Ward,118,2,General,Occupied,2026-08-24
+B0308,H004,ICU,118,1,ICU,Occupied,2026-08-24
+B0309,H004,General Ward,119,2,General,Occupied,2026-08-24
+B0310,H004,General Ward,119,1,General,Occupied,2026-08-24
+B0311,H004,General Ward,120,2,General,Available,2026-08-24
+B0312,H004,General Ward,120,1,General,Available,2026-08-24
+B0313,H004,General Ward,121,2,General,Available,2026-08-24
+B0314,H004,General Ward,121,1,General,Occupied,2026-08-24
+B0315,H004,General Ward,122,2,General,Occupied,2026-08-24
+B0316,H004,General Ward,122,1,General,Occupied,2026-08-24
+B0317,H004,General Ward,123,2,General,Available,2026-08-24
+B0318,H004,Emergency,123,1,Emergency,Available,2026-08-24
+B0319,H004,General Ward,124,2,General,Available,2026-08-24
+B0320,H004,Maternity,124,1,Maternity,Occupied,2026-08-24
+B0321,H004,Maternity,125,2,Maternity,Occupied,2026-08-24
+B0322,H004,General Ward,125,1,General,Available,2026-08-24
+B0323,H004,General Ward,126,2,General,Available,2026-08-24
+B0324,H004,General Ward,126,1,General,Occupied,2026-08-24
+B0325,H004,Pediatrics,127,2,Pediatric,Available,2026-08-24
+B0326,H004,Emergency,127,1,Emergency,Occupied,2026-08-24
+B0327,H004,Pediatrics,128,2,Pediatric,Occupied,2026-08-24
+B0328,H004,General Ward,128,1,General,Available,2026-08-24
+B0329,H004,ICU,129,2,ICU,Available,2026-08-24
+B0330,H004,General Ward,129,1,General,Occupied,2026-08-24
+B0331,H004,Emergency,130,2,Emergency,Available,2026-08-24
+B0332,H004,General Ward,130,1,General,Available,2026-08-24
+B0333,H004,Emergency,131,2,Emergency,Occupied,2026-08-24
+B0334,H004,Pediatrics,131,1,Pediatric,Occupied,2026-08-24
+B0335,H004,General Ward,132,2,General,Occupied,2026-08-24
+B0336,H004,ICU,132,1,ICU,Available,2026-08-24
+B0337,H004,General Ward,133,2,General,Occupied,2026-08-24
+B0338,H004,Emergency,133,1,Emergency,Occupied,2026-08-24
+B0339,H004,General Ward,134,2,General,Occupied,2026-08-24
+B0340,H004,Maternity,134,1,Maternity,Occupied,2026-08-24
+B0341,H004,General Ward,135,2,General,Occupied,2026-08-24
+B0342,H004,Maternity,135,1,Maternity,Available,2026-08-24
+B0343,H004,Pediatrics,136,2,Pediatric,Occupied,2026-08-24
+B0344,H004,ICU,136,1,ICU,Available,2026-08-24
+B0345,H004,Pediatrics,137,2,Pediatric,Occupied,2026-08-24
+B0346,H004,Pediatrics,137,1,Pediatric,Available,2026-08-24
+B0347,H004,Maternity,138,2,Maternity,Available,2026-08-24
+B0348,H004,General Ward,138,1,General,Occupied,2026-08-24
+B0349,H004,ICU,139,2,ICU,Available,2026-08-24
+B0350,H004,General Ward,139,1,General,Occupied,2026-08-24
+B0351,H004,ICU,140,2,ICU,Available,2026-08-24
+B0352,H004,General Ward,140,1,General,Occupied,2026-08-24
+B0353,H004,ICU,141,2,ICU,Available,2026-08-24
+B0354,H004,ICU,141,1,ICU,Available,2026-08-24
+B0355,H004,General Ward,142,2,General,Available,2026-08-24
+B0356,H004,General Ward,142,1,General,Occupied,2026-08-24
+B0357,H004,Emergency,143,2,Emergency,Occupied,2026-08-24
+B0358,H004,Pediatrics,143,1,Pediatric,Occupied,2026-08-24
+B0359,H004,General Ward,144,2,General,Available,2026-08-24
+B0360,H004,ICU,144,1,ICU,Available,2026-08-24
+B0361,H004,Maternity,145,2,Maternity,Occupied,2026-08-24
+B0362,H004,General Ward,145,1,General,Available,2026-08-24
+B0363,H004,General Ward,146,2,General,Available,2026-08-24
+B0364,H004,General Ward,146,1,General,Occupied,2026-08-24
+B0365,H004,Emergency,147,2,Emergency,Available,2026-08-24
+B0366,H004,General Ward,147,1,General,Occupied,2026-08-24
+B0367,H004,Pediatrics,148,2,Pediatric,Available,2026-08-24
+B0368,H004,Emergency,148,1,Emergency,Available,2026-08-24
+B0369,H004,General Ward,149,2,General,Available,2026-08-24
+B0370,H004,Maternity,149,1,Maternity,Occupied,2026-08-24
+B0371,H004,Emergency,150,2,Emergency,Available,2026-08-24
+B0372,H004,General Ward,150,1,General,Available,2026-08-24
+B0373,H004,General Ward,151,2,General,Available,2026-08-24
+B0374,H004,General Ward,151,1,General,Available,2026-08-24
+B0375,H004,General Ward,152,2,General,Occupied,2026-08-24
+B0376,H004,General Ward,152,1,General,Maintenance,2026-08-24
+B0377,H004,Maternity,153,2,Maternity,Available,2026-08-24
+B0378,H004,General Ward,153,1,General,Available,2026-08-24
+B0379,H004,General Ward,154,2,General,Available,2026-08-24
+B0380,H004,Emergency,154,1,Emergency,Occupied,2026-08-24
+B0381,H004,ICU,155,2,ICU,Occupied,2026-08-24
+B0382,H004,Maternity,155,1,Maternity,Occupied,2026-08-24
+B0383,H004,Pediatrics,156,2,Pediatric,Occupied,2026-08-24
+B0384,H004,General Ward,156,1,General,Available,2026-08-24
+B0385,H004,General Ward,157,2,General,Occupied,2026-08-24
+B0386,H004,Maternity,157,1,Maternity,Available,2026-08-24
+B0387,H004,Emergency,158,2,Emergency,Available,2026-08-24
+B0388,H004,Maternity,158,1,Maternity,Occupied,2026-08-24
+B0389,H004,General Ward,159,2,General,Occupied,2026-08-24
+B0390,H004,Pediatrics,159,1,Pediatric,Available,2026-08-24
+B0391,H004,ICU,160,2,ICU,Maintenance,2026-08-24
+B0392,H004,General Ward,160,1,General,Available,2026-08-24
+B0393,H004,ICU,161,2,ICU,Occupied,2026-08-24
+B0394,H004,Emergency,161,1,Emergency,Occupied,2026-08-24
+B0395,H004,General Ward,162,2,General,Occupied,2026-08-24
+B0396,H004,General Ward,162,1,General,Available,2026-08-24
+B0397,H004,Pediatrics,163,2,Pediatric,Available,2026-08-24
+B0398,H004,General Ward,163,1,General,Occupied,2026-08-24
+B0399,H004,General Ward,164,2,General,Available,2026-08-24
+B0400,H004,General Ward,164,1,General,Occupied,2026-08-24
+B0401,H004,General Ward,165,2,General,Occupied,2026-08-24
+B0402,H004,Maternity,165,1,Maternity,Available,2026-08-24
+B0403,H004,Pediatrics,166,2,Pediatric,Occupied,2026-08-24
+B0404,H004,General Ward,166,1,General,Available,2026-08-24
+B0405,H004,Maternity,167,2,Maternity,Available,2026-08-24
+B0406,H004,Pediatrics,167,1,Pediatric,Occupied,2026-08-24
+B0407,H004,General Ward,168,2,General,Available,2026-08-24
+B0408,H004,Pediatrics,168,1,Pediatric,Available,2026-08-24
+B0409,H004,General Ward,169,2,General,Occupied,2026-08-24
+B0410,H004,Maternity,169,1,Maternity,Occupied,2026-08-24
+B0411,H004,Emergency,170,2,Emergency,Available,2026-08-24
+B0412,H004,Emergency,170,1,Emergency,Available,2026-08-24
+B0413,H004,General Ward,171,2,General,Available,2026-08-24
+B0414,H004,Maternity,171,1,Maternity,Occupied,2026-08-24
+B0415,H004,General Ward,172,2,General,Occupied,2026-08-24
+B0416,H004,General Ward,172,1,General,Available,2026-08-24
+B0417,H004,General Ward,173,2,General,Occupied,2026-08-24
+B0418,H004,Pediatrics,173,1,Pediatric,Available,2026-08-24
+B0419,H004,General Ward,174,2,General,Occupied,2026-08-24
+B0420,H004,Maternity,174,1,Maternity,Occupied,2026-08-24
+B0421,H005,Emergency,100,2,Emergency,Occupied,2026-08-24
+B0422,H005,General Ward,100,1,General,Occupied,2026-08-24
+B0423,H005,General Ward,101,2,General,Available,2026-08-24
+B0424,H005,General Ward,101,1,General,Occupied,2026-08-24
+B0425,H005,ICU,102,2,ICU,Occupied,2026-08-24
+B0426,H005,Pediatrics,102,1,Pediatric,Available,2026-08-24
+B0427,H005,General Ward,103,2,General,Occupied,2026-08-24
+B0428,H005,Pediatrics,103,1,Pediatric,Occupied,2026-08-24
+B0429,H005,General Ward,104,2,General,Occupied,2026-08-24
+B0430,H005,Pediatrics,104,1,Pediatric,Available,2026-08-24
+B0431,H005,Maternity,105,2,Maternity,Occupied,2026-08-24
+B0432,H005,Pediatrics,105,1,Pediatric,Available,2026-08-24
+B0433,H005,Emergency,106,2,Emergency,Occupied,2026-08-24
+B0434,H005,Pediatrics,106,1,Pediatric,Occupied,2026-08-24
+B0435,H005,General Ward,107,2,General,Occupied,2026-08-24
+B0436,H005,General Ward,107,1,General,Occupied,2026-08-24
+B0437,H005,General Ward,108,2,General,Available,2026-08-24
+B0438,H005,General Ward,108,1,General,Occupied,2026-08-24
+B0439,H005,Emergency,109,2,Emergency,Occupied,2026-08-24
+B0440,H005,ICU,109,1,ICU,Occupied,2026-08-24
+B0441,H005,Pediatrics,110,2,Pediatric,Occupied,2026-08-24
+B0442,H005,General Ward,110,1,General,Occupied,2026-08-24
+B0443,H005,Emergency,111,2,Emergency,Occupied,2026-08-24
+B0444,H005,General Ward,111,1,General,Available,2026-08-24
+B0445,H005,General Ward,112,2,General,Occupied,2026-08-24
+B0446,H005,Emergency,112,1,Emergency,Occupied,2026-08-24
+B0447,H005,Maternity,113,2,Maternity,Occupied,2026-08-24
+B0448,H005,ICU,113,1,ICU,Available,2026-08-24
+B0449,H005,General Ward,114,2,General,Occupied,2026-08-24
+B0450,H005,ICU,114,1,ICU,Available,2026-08-24
+B0451,H005,General Ward,115,2,General,Available,2026-08-24
+B0452,H005,Pediatrics,115,1,Pediatric,Occupied,2026-08-24
+B0453,H005,Emergency,116,2,Emergency,Available,2026-08-24
+B0454,H005,General Ward,116,1,General,Available,2026-08-24
+B0455,H005,General Ward,117,2,General,Occupied,2026-08-24
+B0456,H005,General Ward,117,1,General,Occupied,2026-08-24
+B0457,H005,Maternity,118,2,Maternity,Available,2026-08-24
+B0458,H005,General Ward,118,1,General,Occupied,2026-08-24
+B0459,H005,Pediatrics,119,2,Pediatric,Occupied,2026-08-24
+B0460,H005,ICU,119,1,ICU,Available,2026-08-24
+B0461,H005,ICU,120,2,ICU,Available,2026-08-24
+B0462,H005,General Ward,120,1,General,Available,2026-08-24
+B0463,H005,Maternity,121,2,Maternity,Available,2026-08-24
+B0464,H005,General Ward,121,1,General,Occupied,2026-08-24
+B0465,H005,ICU,122,2,ICU,Available,2026-08-24
+B0466,H005,Emergency,122,1,Emergency,Available,2026-08-24
+B0467,H005,ICU,123,2,ICU,Available,2026-08-24
+B0468,H005,Maternity,123,1,Maternity,Available,2026-08-24
+B0469,H005,General Ward,124,2,General,Occupied,2026-08-24
+B0470,H005,General Ward,124,1,General,Occupied,2026-08-24
+B0471,H005,General Ward,125,2,General,Occupied,2026-08-24
+B0472,H005,General Ward,125,1,General,Occupied,2026-08-24
+B0473,H005,General Ward,126,2,General,Occupied,2026-08-24
+B0474,H005,General Ward,126,1,General,Occupied,2026-08-24
+B0475,H005,General Ward,127,2,General,Available,2026-08-24
+B0476,H005,General Ward,127,1,General,Occupied,2026-08-24
+B0477,H005,General Ward,128,2,General,Occupied,2026-08-24
+B0478,H005,ICU,128,1,ICU,Occupied,2026-08-24
+B0479,H005,ICU,129,2,ICU,Occupied,2026-08-24
+B0480,H005,General Ward,129,1,General,Occupied,2026-08-24
+B0481,H005,General Ward,130,2,General,Occupied,2026-08-24
+B0482,H005,General Ward,130,1,General,Occupied,2026-08-24
+B0483,H005,ICU,131,2,ICU,Occupied,2026-08-24
+B0484,H005,General Ward,131,1,General,Occupied,2026-08-24
+B0485,H005,General Ward,132,2,General,Occupied,2026-08-24
+B0486,H005,General Ward,132,1,General,Available,2026-08-24
+B0487,H005,General Ward,133,2,General,Occupied,2026-08-24
+B0488,H005,General Ward,133,1,General,Occupied,2026-08-24
+B0489,H005,ICU,134,2,ICU,Occupied,2026-08-24
+B0490,H005,ICU,134,1,ICU,Occupied,2026-08-24
+B0491,H005,Emergency,135,2,Emergency,Occupied,2026-08-24
+B0492,H005,ICU,135,1,ICU,Available,2026-08-24
+B0493,H005,Emergency,136,2,Emergency,Occupied,2026-08-24
+B0494,H005,General Ward,136,1,General,Available,2026-08-24
+B0495,H005,Pediatrics,137,2,Pediatric,Occupied,2026-08-24
+B0496,H005,General Ward,137,1,General,Available,2026-08-24
+B0497,H005,General Ward,138,2,General,Occupied,2026-08-24
+B0498,H005,ICU,138,1,ICU,Occupied,2026-08-24
+B0499,H005,General Ward,139,2,General,Occupied,2026-08-24
+B0500,H005,General Ward,139,1,General,Available,2026-08-24
+B0501,H005,Emergency,140,2,Emergency,Maintenance,2026-08-24
+B0502,H005,Pediatrics,140,1,Pediatric,Available,2026-08-24
+B0503,H005,Maternity,141,2,Maternity,Occupied,2026-08-24
+B0504,H005,General Ward,141,1,General,Occupied,2026-08-24
+B0505,H005,General Ward,142,2,General,Occupied,2026-08-24
+B0506,H005,Pediatrics,142,1,Pediatric,Occupied,2026-08-24
+B0507,H005,General Ward,143,2,General,Occupied,2026-08-24
+B0508,H005,Pediatrics,143,1,Pediatric,Occupied,2026-08-24
+B0509,H005,General Ward,144,2,General,Available,2026-08-24
+B0510,H005,General Ward,144,1,General,Occupied,2026-08-24
+B0511,H006,General Ward,100,2,General,Occupied,2026-08-24
+B0512,H006,Pediatrics,100,1,Pediatric,Occupied,2026-08-24
+B0513,H006,General Ward,101,2,General,Available,2026-08-24
+B0514,H006,General Ward,101,1,General,Occupied,2026-08-24
+B0515,H006,General Ward,102,2,General,Available,2026-08-24
+B0516,H006,General Ward,102,1,General,Maintenance,2026-08-24
+B0517,H006,General Ward,103,2,General,Occupied,2026-08-24
+B0518,H006,Emergency,103,1,Emergency,Available,2026-08-24
+B0519,H006,General Ward,104,2,General,Occupied,2026-08-24
+B0520,H006,Pediatrics,104,1,Pediatric,Available,2026-08-24
+B0521,H006,Pediatrics,105,2,Pediatric,Occupied,2026-08-24
+B0522,H006,General Ward,105,1,General,Occupied,2026-08-24
+B0523,H006,General Ward,106,2,General,Available,2026-08-24
+B0524,H006,ICU,106,1,ICU,Occupied,2026-08-24
+B0525,H006,General Ward,107,2,General,Occupied,2026-08-24
+B0526,H006,General Ward,107,1,General,Available,2026-08-24
+B0527,H006,Maternity,108,2,Maternity,Maintenance,2026-08-24
+B0528,H006,Maternity,108,1,Maternity,Occupied,2026-08-24
+B0529,H006,Pediatrics,109,2,Pediatric,Occupied,2026-08-24
+B0530,H006,General Ward,109,1,General,Occupied,2026-08-24
+B0531,H006,Emergency,110,2,Emergency,Occupied,2026-08-24
+B0532,H006,Emergency,110,1,Emergency,Occupied,2026-08-24
+B0533,H006,General Ward,111,2,General,Available,2026-08-24
+B0534,H006,ICU,111,1,ICU,Available,2026-08-24
+B0535,H006,General Ward,112,2,General,Available,2026-08-24
+B0536,H006,General Ward,112,1,General,Available,2026-08-24
+B0537,H006,General Ward,113,2,General,Occupied,2026-08-24
+B0538,H006,General Ward,113,1,General,Occupied,2026-08-24
+B0539,H006,General Ward,114,2,General,Available,2026-08-24
+B0540,H006,Pediatrics,114,1,Pediatric,Occupied,2026-08-24
+B0541,H006,Maternity,115,2,Maternity,Available,2026-08-24
+B0542,H006,ICU,115,1,ICU,Occupied,2026-08-24
+B0543,H006,Pediatrics,116,2,Pediatric,Available,2026-08-24
+B0544,H006,Maternity,116,1,Maternity,Available,2026-08-24
+B0545,H006,General Ward,117,2,General,Occupied,2026-08-24
+B0546,H006,General Ward,117,1,General,Occupied,2026-08-24
+B0547,H006,General Ward,118,2,General,Occupied,2026-08-24
+B0548,H006,General Ward,118,1,General,Occupied,2026-08-24
+B0549,H006,Emergency,119,2,Emergency,Occupied,2026-08-24
+B0550,H006,General Ward,119,1,General,Occupied,2026-08-24
+B0551,H006,General Ward,120,2,General,Available,2026-08-24
+B0552,H006,General Ward,120,1,General,Occupied,2026-08-24
+B0553,H006,General Ward,121,2,General,Available,2026-08-24
+B0554,H006,Maternity,121,1,Maternity,Available,2026-08-24
+B0555,H006,General Ward,122,2,General,Occupied,2026-08-24
+B0556,H006,General Ward,122,1,General,Occupied,2026-08-24
+B0557,H006,General Ward,123,2,General,Occupied,2026-08-24
+B0558,H006,General Ward,123,1,General,Occupied,2026-08-24
+B0559,H006,ICU,124,2,ICU,Maintenance,2026-08-24
+B0560,H006,General Ward,124,1,General,Available,2026-08-24
+B0561,H006,General Ward,125,2,General,Available,2026-08-24
+B0562,H006,General Ward,125,1,General,Available,2026-08-24
+B0563,H006,Pediatrics,126,2,Pediatric,Occupied,2026-08-24
+B0564,H006,ICU,126,1,ICU,Occupied,2026-08-24
+B0565,H006,ICU,127,2,ICU,Available,2026-08-24
+B0566,H006,Emergency,127,1,Emergency,Available,2026-08-24
+B0567,H006,Emergency,128,2,Emergency,Occupied,2026-08-24
+B0568,H006,General Ward,128,1,General,Occupied,2026-08-24
+B0569,H006,General Ward,129,2,General,Occupied,2026-08-24
+B0570,H006,General Ward,129,1,General,Occupied,2026-08-24
+B0571,H006,General Ward,130,2,General,Available,2026-08-24
+B0572,H006,Pediatrics,130,1,Pediatric,Occupied,2026-08-24
+B0573,H006,General Ward,131,2,General,Occupied,2026-08-24
+B0574,H006,Emergency,131,1,Emergency,Occupied,2026-08-24
+B0575,H006,Pediatrics,132,2,Pediatric,Occupied,2026-08-24
+B0576,H006,General Ward,132,1,General,Occupied,2026-08-24
+B0577,H006,Maternity,133,2,Maternity,Occupied,2026-08-24
+B0578,H006,ICU,133,1,ICU,Available,2026-08-24
+B0579,H006,Pediatrics,134,2,Pediatric,Occupied,2026-08-24
+B0580,H006,General Ward,134,1,General,Occupied,2026-08-24
+B0581,H006,General Ward,135,2,General,Occupied,2026-08-24
+B0582,H006,General Ward,135,1,General,Available,2026-08-24
+B0583,H006,General Ward,136,2,General,Occupied,2026-08-24
+B0584,H006,General Ward,136,1,General,Available,2026-08-24
+B0585,H006,Maternity,137,2,Maternity,Available,2026-08-24
+B0586,H006,ICU,137,1,ICU,Occupied,2026-08-24
+B0587,H006,General Ward,138,2,General,Occupied,2026-08-24
+B0588,H006,General Ward,138,1,General,Available,2026-08-24
+B0589,H006,General Ward,139,2,General,Available,2026-08-24
+B0590,H006,General Ward,139,1,General,Occupied,2026-08-24
+B0591,H006,Maternity,140,2,Maternity,Available,2026-08-24
+B0592,H006,General Ward,140,1,General,Available,2026-08-24
+B0593,H006,General Ward,141,2,General,Available,2026-08-24
+B0594,H006,ICU,141,1,ICU,Occupied,2026-08-24
+B0595,H006,General Ward,142,2,General,Occupied,2026-08-24
+B0596,H006,General Ward,142,1,General,Occupied,2026-08-24
+B0597,H006,Emergency,143,2,Emergency,Available,2026-08-24
+B0598,H006,ICU,143,1,ICU,Occupied,2026-08-24
+B0599,H006,Maternity,144,2,Maternity,Occupied,2026-08-24
+B0600,H006,ICU,144,1,ICU,Available,2026-08-24
+B0601,H006,General Ward,145,2,General,Occupied,2026-08-24
+B0602,H006,Emergency,145,1,Emergency,Available,2026-08-24
+B0603,H006,Maternity,146,2,Maternity,Available,2026-08-24
+B0604,H006,Emergency,146,1,Emergency,Occupied,2026-08-24
+B0605,H006,Maternity,147,2,Maternity,Occupied,2026-08-24
+B0606,H006,Pediatrics,147,1,Pediatric,Occupied,2026-08-24
+B0607,H006,Pediatrics,148,2,Pediatric,Available,2026-08-24
+B0608,H006,General Ward,148,1,General,Available,2026-08-24
+B0609,H006,Emergency,149,2,Emergency,Available,2026-08-24
+B0610,H006,General Ward,149,1,General,Occupied,2026-08-24
+B0611,H006,ICU,150,2,ICU,Occupied,2026-08-24
+B0612,H006,Emergency,150,1,Emergency,Occupied,2026-08-24
+B0613,H006,Maternity,151,2,Maternity,Occupied,2026-08-24
+B0614,H006,Maternity,151,1,Maternity,Occupied,2026-08-24
+B0615,H006,General Ward,152,2,General,Occupied,2026-08-24
+B0616,H006,Emergency,152,1,Emergency,Occupied,2026-08-24
+B0617,H006,Emergency,153,2,Emergency,Available,2026-08-24
+B0618,H006,General Ward,153,1,General,Available,2026-08-24
+B0619,H006,General Ward,154,2,General,Occupied,2026-08-24
+B0620,H006,General Ward,154,1,General,Occupied,2026-08-24
+B0621,H007,Pediatrics,100,2,Pediatric,Available,2026-08-24
+B0622,H007,General Ward,100,1,General,Occupied,2026-08-24
+B0623,H007,Maternity,101,2,Maternity,Occupied,2026-08-24
+B0624,H007,General Ward,101,1,General,Occupied,2026-08-24
+B0625,H007,Maternity,102,2,Maternity,Occupied,2026-08-24
+B0626,H007,General Ward,102,1,General,Available,2026-08-24
+B0627,H007,Pediatrics,103,2,Pediatric,Occupied,2026-08-24
+B0628,H007,General Ward,103,1,General,Occupied,2026-08-24
+B0629,H007,ICU,104,2,ICU,Occupied,2026-08-24
+B0630,H007,Pediatrics,104,1,Pediatric,Available,2026-08-24
+B0631,H007,Maternity,105,2,Maternity,Available,2026-08-24
+B0632,H007,Pediatrics,105,1,Pediatric,Occupied,2026-08-24
+B0633,H007,General Ward,106,2,General,Occupied,2026-08-24
+B0634,H007,General Ward,106,1,General,Occupied,2026-08-24
+B0635,H007,General Ward,107,2,General,Occupied,2026-08-24
+B0636,H007,General Ward,107,1,General,Occupied,2026-08-24
+B0637,H007,Emergency,108,2,Emergency,Occupied,2026-08-24
+B0638,H007,Emergency,108,1,Emergency,Occupied,2026-08-24
+B0639,H007,Pediatrics,109,2,Pediatric,Available,2026-08-24
+B0640,H007,Pediatrics,109,1,Pediatric,Occupied,2026-08-24
+B0641,H007,Emergency,110,2,Emergency,Occupied,2026-08-24
+B0642,H007,Pediatrics,110,1,Pediatric,Occupied,2026-08-24
+B0643,H007,General Ward,111,2,General,Available,2026-08-24
+B0644,H007,General Ward,111,1,General,Occupied,2026-08-24
+B0645,H007,ICU,112,2,ICU,Occupied,2026-08-24
+B0646,H007,Pediatrics,112,1,Pediatric,Available,2026-08-24
+B0647,H007,General Ward,113,2,General,Occupied,2026-08-24
+B0648,H007,General Ward,113,1,General,Available,2026-08-24
+B0649,H007,Emergency,114,2,Emergency,Occupied,2026-08-24
+B0650,H007,General Ward,114,1,General,Occupied,2026-08-24
+B0651,H007,General Ward,115,2,General,Occupied,2026-08-24
+B0652,H007,Maternity,115,1,Maternity,Occupied,2026-08-24
+B0653,H007,Emergency,116,2,Emergency,Occupied,2026-08-24
+B0654,H007,General Ward,116,1,General,Occupied,2026-08-24
+B0655,H007,Pediatrics,117,2,Pediatric,Available,2026-08-24
+B0656,H007,General Ward,117,1,General,Occupied,2026-08-24
+B0657,H007,Pediatrics,118,2,Pediatric,Occupied,2026-08-24
+B0658,H007,General Ward,118,1,General,Occupied,2026-08-24
+B0659,H007,ICU,119,2,ICU,Occupied,2026-08-24
+B0660,H007,General Ward,119,1,General,Occupied,2026-08-24
+B0661,H007,General Ward,120,2,General,Occupied,2026-08-24
+B0662,H007,Pediatrics,120,1,Pediatric,Occupied,2026-08-24
+B0663,H007,General Ward,121,2,General,Occupied,2026-08-24
+B0664,H007,General Ward,121,1,General,Occupied,2026-08-24
+B0665,H007,General Ward,122,2,General,Occupied,2026-08-24
+B0666,H007,Emergency,122,1,Emergency,Available,2026-08-24
+B0667,H007,Pediatrics,123,2,Pediatric,Occupied,2026-08-24
+B0668,H007,Maternity,123,1,Maternity,Available,2026-08-24
+B0669,H007,General Ward,124,2,General,Occupied,2026-08-24
+B0670,H007,General Ward,124,1,General,Occupied,2026-08-24
+B0671,H007,General Ward,125,2,General,Occupied,2026-08-24
+B0672,H007,ICU,125,1,ICU,Occupied,2026-08-24
+B0673,H007,Maternity,126,2,Maternity,Occupied,2026-08-24
+B0674,H007,Emergency,126,1,Emergency,Occupied,2026-08-24
+B0675,H007,ICU,127,2,ICU,Occupied,2026-08-24
+B0676,H007,General Ward,127,1,General,Occupied,2026-08-24
+B0677,H007,Maternity,128,2,Maternity,Occupied,2026-08-24
+B0678,H007,General Ward,128,1,General,Occupied,2026-08-24
+B0679,H007,General Ward,129,2,General,Available,2026-08-24
+B0680,H007,General Ward,129,1,General,Occupied,2026-08-24
+B0681,H008,General Ward,100,2,General,Occupied,2026-08-24
+B0682,H008,General Ward,100,1,General,Available,2026-08-24
+B0683,H008,General Ward,101,2,General,Available,2026-08-24
+B0684,H008,General Ward,101,1,General,Available,2026-08-24
+B0685,H008,ICU,102,2,ICU,Available,2026-08-24
+B0686,H008,General Ward,102,1,General,Available,2026-08-24
+B0687,H008,General Ward,103,2,General,Occupied,2026-08-24
+B0688,H008,Maternity,103,1,Maternity,Available,2026-08-24
+B0689,H008,Emergency,104,2,Emergency,Available,2026-08-24
+B0690,H008,General Ward,104,1,General,Occupied,2026-08-24
+B0691,H008,General Ward,105,2,General,Available,2026-08-24
+B0692,H008,Maternity,105,1,Maternity,Occupied,2026-08-24
+B0693,H008,General Ward,106,2,General,Available,2026-08-24
+B0694,H008,General Ward,106,1,General,Occupied,2026-08-24
+B0695,H008,Maternity,107,2,Maternity,Occupied,2026-08-24
+B0696,H008,General Ward,107,1,General,Available,2026-08-24
+B0697,H008,Emergency,108,2,Emergency,Occupied,2026-08-24
+B0698,H008,ICU,108,1,ICU,Occupied,2026-08-24
+B0699,H008,Emergency,109,2,Emergency,Available,2026-08-24
+B0700,H008,General Ward,109,1,General,Available,2026-08-24
+B0701,H008,General Ward,110,2,General,Occupied,2026-08-24
+B0702,H008,General Ward,110,1,General,Available,2026-08-24
+B0703,H008,General Ward,111,2,General,Occupied,2026-08-24
+B0704,H008,Pediatrics,111,1,Pediatric,Occupied,2026-08-24
+B0705,H008,General Ward,112,2,General,Available,2026-08-24
+B0706,H008,ICU,112,1,ICU,Occupied,2026-08-24
+B0707,H008,Pediatrics,113,2,Pediatric,Occupied,2026-08-24
+B0708,H008,Pediatrics,113,1,Pediatric,Available,2026-08-24
+B0709,H008,General Ward,114,2,General,Available,2026-08-24
+B0710,H008,General Ward,114,1,General,Available,2026-08-24
+B0711,H008,Maternity,115,2,Maternity,Occupied,2026-08-24
+B0712,H008,Emergency,115,1,Emergency,Available,2026-08-24
+B0713,H008,Pediatrics,116,2,Pediatric,Occupied,2026-08-24
+B0714,H008,Maternity,116,1,Maternity,Occupied,2026-08-24
+B0715,H008,Pediatrics,117,2,Pediatric,Occupied,2026-08-24
+B0716,H008,General Ward,117,1,General,Occupied,2026-08-24
+B0717,H008,ICU,118,2,ICU,Available,2026-08-24
+B0718,H008,General Ward,118,1,General,Occupied,2026-08-24
+B0719,H008,Emergency,119,2,Emergency,Occupied,2026-08-24
+B0720,H008,Maternity,119,1,Maternity,Occupied,2026-08-24
+B0721,H008,General Ward,120,2,General,Occupied,2026-08-24
+B0722,H008,General Ward,120,1,General,Available,2026-08-24
+B0723,H008,General Ward,121,2,General,Occupied,2026-08-24
+B0724,H008,Maternity,121,1,Maternity,Occupied,2026-08-24
+B0725,H008,General Ward,122,2,General,Occupied,2026-08-24
+B0726,H008,General Ward,122,1,General,Available,2026-08-24
+B0727,H008,General Ward,123,2,General,Occupied,2026-08-24
+B0728,H008,General Ward,123,1,General,Available,2026-08-24
+B0729,H008,General Ward,124,2,General,Occupied,2026-08-24
+B0730,H008,General Ward,124,1,General,Occupied,2026-08-24
+B0731,H008,General Ward,125,2,General,Available,2026-08-24
+B0732,H008,General Ward,125,1,General,Available,2026-08-24
+B0733,H008,General Ward,126,2,General,Occupied,2026-08-24
+B0734,H008,General Ward,126,1,General,Occupied,2026-08-24
+B0735,H008,General Ward,127,2,General,Occupied,2026-08-24
+B0736,H008,Emergency,127,1,Emergency,Available,2026-08-24
+B0737,H008,General Ward,128,2,General,Available,2026-08-24
+B0738,H008,General Ward,128,1,General,Maintenance,2026-08-24
+B0739,H008,General Ward,129,2,General,Available,2026-08-24
+B0740,H008,General Ward,129,1,General,Occupied,2026-08-24
+B0741,H008,General Ward,130,2,General,Occupied,2026-08-24
+B0742,H008,General Ward,130,1,General,Available,2026-08-24
+B0743,H008,Pediatrics,131,2,Pediatric,Available,2026-08-24
+B0744,H008,General Ward,131,1,General,Occupied,2026-08-24
+B0745,H008,General Ward,132,2,General,Available,2026-08-24
+B0746,H008,General Ward,132,1,General,Available,2026-08-24
+B0747,H008,General Ward,133,2,General,Available,2026-08-24
+B0748,H008,General Ward,133,1,General,Available,2026-08-24
+B0749,H008,Pediatrics,134,2,Pediatric,Occupied,2026-08-24
+B0750,H008,Pediatrics,134,1,Pediatric,Occupied,2026-08-24
+B0751,H008,General Ward,135,2,General,Available,2026-08-24
+B0752,H008,General Ward,135,1,General,Occupied,2026-08-24
+B0753,H008,General Ward,136,2,General,Occupied,2026-08-24
+B0754,H008,General Ward,136,1,General,Available,2026-08-24
+B0755,H008,Emergency,137,2,Emergency,Occupied,2026-08-24
+B0756,H008,General Ward,137,1,General,Available,2026-08-24
+B0757,H008,General Ward,138,2,General,Occupied,2026-08-24
+B0758,H008,Maternity,138,1,Maternity,Available,2026-08-24
+B0759,H008,General Ward,139,2,General,Available,2026-08-24
+B0760,H008,General Ward,139,1,General,Occupied,2026-08-24
+B0761,H008,Emergency,140,2,Emergency,Occupied,2026-08-24
+B0762,H008,General Ward,140,1,General,Available,2026-08-24
+B0763,H008,General Ward,141,2,General,Available,2026-08-24
+B0764,H008,General Ward,141,1,General,Available,2026-08-24
+B0765,H008,Maternity,142,2,Maternity,Available,2026-08-24
+B0766,H008,General Ward,142,1,General,Available,2026-08-24
+B0767,H008,General Ward,143,2,General,Occupied,2026-08-24
+B0768,H008,General Ward,143,1,General,Occupied,2026-08-24
+B0769,H008,General Ward,144,2,General,Occupied,2026-08-24
+B0770,H008,ICU,144,1,ICU,Available,2026-08-24
+B0771,H008,General Ward,145,2,General,Occupied,2026-08-24
+B0772,H008,ICU,145,1,ICU,Occupied,2026-08-24
+B0773,H008,ICU,146,2,ICU,Occupied,2026-08-24
+B0774,H008,Pediatrics,146,1,Pediatric,Available,2026-08-24
+B0775,H008,General Ward,147,2,General,Occupied,2026-08-24
+B0776,H008,Pediatrics,147,1,Pediatric,Occupied,2026-08-24
+B0777,H008,ICU,148,2,ICU,Occupied,2026-08-24
+B0778,H008,General Ward,148,1,General,Available,2026-08-24
+B0779,H008,Pediatrics,149,2,Pediatric,Available,2026-08-24
+B0780,H008,Pediatrics,149,1,Pediatric,Occupied,2026-08-24
+B0781,H008,General Ward,150,2,General,Occupied,2026-08-24
+B0782,H008,Maternity,150,1,Maternity,Available,2026-08-24
+B0783,H008,General Ward,151,2,General,Occupied,2026-08-24
+B0784,H008,ICU,151,1,ICU,Occupied,2026-08-24
+B0785,H008,Maternity,152,2,Maternity,Occupied,2026-08-24
+B0786,H008,General Ward,152,1,General,Occupied,2026-08-24
+B0787,H008,Pediatrics,153,2,Pediatric,Available,2026-08-24
+B0788,H008,General Ward,153,1,General,Available,2026-08-24
+B0789,H008,Pediatrics,154,2,Pediatric,Available,2026-08-24
+B0790,H008,ICU,154,1,ICU,Occupied,2026-08-24
+B0791,H008,General Ward,155,2,General,Available,2026-08-24
+B0792,H008,General Ward,155,1,General,Occupied,2026-08-24
+B0793,H008,General Ward,156,2,General,Occupied,2026-08-24
+B0794,H008,General Ward,156,1,General,Occupied,2026-08-24
+B0795,H008,General Ward,157,2,General,Occupied,2026-08-24
+B0796,H008,General Ward,157,1,General,Available,2026-08-24
+B0797,H008,General Ward,158,2,General,Occupied,2026-08-24
+B0798,H008,General Ward,158,1,General,Occupied,2026-08-24
+B0799,H008,Emergency,159,2,Emergency,Available,2026-08-24
+B0800,H008,Emergency,159,1,Emergency,Occupied,2026-08-24
+B0801,H008,Emergency,160,2,Emergency,Occupied,2026-08-24
+B0802,H008,General Ward,160,1,General,Occupied,2026-08-24
+B0803,H008,Maternity,161,2,Maternity,Available,2026-08-24
+B0804,H008,ICU,161,1,ICU,Occupied,2026-08-24
+B0805,H008,General Ward,162,2,General,Occupied,2026-08-24
+B0806,H008,General Ward,162,1,General,Available,2026-08-24
+B0807,H008,Emergency,163,2,Emergency,Available,2026-08-24
+B0808,H008,General Ward,163,1,General,Occupied,2026-08-24
+B0809,H008,General Ward,164,2,General,Occupied,2026-08-24
+B0810,H008,Maternity,164,1,Maternity,Occupied,2026-08-24
+B0811,H008,General Ward,165,2,General,Occupied,2026-08-24
+B0812,H008,General Ward,165,1,General,Occupied,2026-08-24
+B0813,H008,Maternity,166,2,Maternity,Occupied,2026-08-24
+B0814,H008,ICU,166,1,ICU,Available,2026-08-24
+B0815,H008,General Ward,167,2,General,Available,2026-08-24
+B0816,H008,Maternity,167,1,Maternity,Occupied,2026-08-24
+B0817,H008,Pediatrics,168,2,Pediatric,Occupied,2026-08-24
+B0818,H008,General Ward,168,1,General,Occupied,2026-08-24
+B0819,H008,ICU,169,2,ICU,Available,2026-08-24
+B0820,H008,General Ward,169,1,General,Occupied,2026-08-24
+B0821,H009,General Ward,100,2,General,Occupied,2026-08-24
+B0822,H009,ICU,100,1,ICU,Available,2026-08-24
+B0823,H009,General Ward,101,2,General,Occupied,2026-08-24
+B0824,H009,Emergency,101,1,Emergency,Occupied,2026-08-24
+B0825,H009,Pediatrics,102,2,Pediatric,Occupied,2026-08-24
+B0826,H009,General Ward,102,1,General,Available,2026-08-24
+B0827,H009,ICU,103,2,ICU,Occupied,2026-08-24
+B0828,H009,General Ward,103,1,General,Occupied,2026-08-24
+B0829,H009,Pediatrics,104,2,Pediatric,Occupied,2026-08-24
+B0830,H009,General Ward,104,1,General,Available,2026-08-24
+B0831,H009,ICU,105,2,ICU,Occupied,2026-08-24
+B0832,H009,ICU,105,1,ICU,Occupied,2026-08-24
+B0833,H009,General Ward,106,2,General,Available,2026-08-24
+B0834,H009,Emergency,106,1,Emergency,Occupied,2026-08-24
+B0835,H009,Emergency,107,2,Emergency,Occupied,2026-08-24
+B0836,H009,ICU,107,1,ICU,Available,2026-08-24
+B0837,H009,Emergency,108,2,Emergency,Occupied,2026-08-24
+B0838,H009,Maternity,108,1,Maternity,Available,2026-08-24
+B0839,H009,General Ward,109,2,General,Available,2026-08-24
+B0840,H009,General Ward,109,1,General,Available,2026-08-24
+B0841,H009,General Ward,110,2,General,Available,2026-08-24
+B0842,H009,Pediatrics,110,1,Pediatric,Available,2026-08-24
+B0843,H009,General Ward,111,2,General,Available,2026-08-24
+B0844,H009,General Ward,111,1,General,Occupied,2026-08-24
+B0845,H009,General Ward,112,2,General,Occupied,2026-08-24
+B0846,H009,Pediatrics,112,1,Pediatric,Available,2026-08-24
+B0847,H009,General Ward,113,2,General,Occupied,2026-08-24
+B0848,H009,Emergency,113,1,Emergency,Occupied,2026-08-24
+B0849,H009,General Ward,114,2,General,Available,2026-08-24
+B0850,H009,Maternity,114,1,Maternity,Occupied,2026-08-24
+B0851,H009,General Ward,115,2,General,Occupied,2026-08-24
+B0852,H009,General Ward,115,1,General,Occupied,2026-08-24
+B0853,H009,Pediatrics,116,2,Pediatric,Available,2026-08-24
+B0854,H009,Maternity,116,1,Maternity,Occupied,2026-08-24
+B0855,H009,General Ward,117,2,General,Available,2026-08-24
+B0856,H009,General Ward,117,1,General,Available,2026-08-24
+B0857,H009,Emergency,118,2,Emergency,Available,2026-08-24
+B0858,H009,Pediatrics,118,1,Pediatric,Occupied,2026-08-24
+B0859,H009,General Ward,119,2,General,Available,2026-08-24
+B0860,H009,General Ward,119,1,General,Available,2026-08-24
+B0861,H009,Emergency,120,2,Emergency,Occupied,2026-08-24
+B0862,H009,Emergency,120,1,Emergency,Occupied,2026-08-24
+B0863,H009,Pediatrics,121,2,Pediatric,Occupied,2026-08-24
+B0864,H009,ICU,121,1,ICU,Available,2026-08-24
+B0865,H009,General Ward,122,2,General,Occupied,2026-08-24
+B0866,H009,Maternity,122,1,Maternity,Available,2026-08-24
+B0867,H009,Pediatrics,123,2,Pediatric,Occupied,2026-08-24
+B0868,H009,Pediatrics,123,1,Pediatric,Occupied,2026-08-24
+B0869,H009,General Ward,124,2,General,Available,2026-08-24
+B0870,H009,General Ward,124,1,General,Available,2026-08-24
+B0871,H009,Emergency,125,2,Emergency,Available,2026-08-24
+B0872,H009,General Ward,125,1,General,Occupied,2026-08-24
+B0873,H009,Maternity,126,2,Maternity,Occupied,2026-08-24
+B0874,H009,General Ward,126,1,General,Occupied,2026-08-24
+B0875,H009,Emergency,127,2,Emergency,Occupied,2026-08-24
+B0876,H009,Pediatrics,127,1,Pediatric,Available,2026-08-24
+B0877,H009,General Ward,128,2,General,Available,2026-08-24
+B0878,H009,General Ward,128,1,General,Occupied,2026-08-24
+B0879,H009,ICU,129,2,ICU,Available,2026-08-24
+B0880,H009,ICU,129,1,ICU,Available,2026-08-24
+B0881,H009,General Ward,130,2,General,Occupied,2026-08-24
+B0882,H009,ICU,130,1,ICU,Available,2026-08-24
+B0883,H009,Maternity,131,2,Maternity,Available,2026-08-24
+B0884,H009,General Ward,131,1,General,Available,2026-08-24
+B0885,H009,General Ward,132,2,General,Available,2026-08-24
+B0886,H009,General Ward,132,1,General,Occupied,2026-08-24
+B0887,H009,General Ward,133,2,General,Available,2026-08-24
+B0888,H009,General Ward,133,1,General,Available,2026-08-24
+B0889,H009,General Ward,134,2,General,Occupied,2026-08-24
+B0890,H009,Emergency,134,1,Emergency,Occupied,2026-08-24
+B0891,H009,General Ward,135,2,General,Available,2026-08-24
+B0892,H009,Maternity,135,1,Maternity,Occupied,2026-08-24
+B0893,H009,General Ward,136,2,General,Occupied,2026-08-24
+B0894,H009,General Ward,136,1,General,Available,2026-08-24
+B0895,H009,Emergency,137,2,Emergency,Occupied,2026-08-24
+B0896,H009,Pediatrics,137,1,Pediatric,Available,2026-08-24
+B0897,H009,General Ward,138,2,General,Occupied,2026-08-24
+B0898,H009,General Ward,138,1,General,Available,2026-08-24
+B0899,H009,General Ward,139,2,General,Occupied,2026-08-24
+B0900,H009,General Ward,139,1,General,Available,2026-08-24
+B0901,H009,General Ward,140,2,General,Occupied,2026-08-24
+B0902,H009,General Ward,140,1,General,Occupied,2026-08-24
+B0903,H009,General Ward,141,2,General,Occupied,2026-08-24
+B0904,H009,General Ward,141,1,General,Available,2026-08-24
+B0905,H009,Maternity,142,2,Maternity,Occupied,2026-08-24
+B0906,H009,Emergency,142,1,Emergency,Occupied,2026-08-24
+B0907,H009,General Ward,143,2,General,Available,2026-08-24
+B0908,H009,General Ward,143,1,General,Available,2026-08-24
+B0909,H009,General Ward,144,2,General,Occupied,2026-08-24
+B0910,H009,General Ward,144,1,General,Occupied,2026-08-24
+B0911,H009,Emergency,145,2,Emergency,Available,2026-08-24
+B0912,H009,Pediatrics,145,1,Pediatric,Occupied,2026-08-24
+B0913,H009,Maternity,146,2,Maternity,Occupied,2026-08-24
+B0914,H009,Maternity,146,1,Maternity,Occupied,2026-08-24
+B0915,H009,Maternity,147,2,Maternity,Occupied,2026-08-24
+B0916,H009,Maternity,147,1,Maternity,Available,2026-08-24
+B0917,H009,General Ward,148,2,General,Available,2026-08-24
+B0918,H009,General Ward,148,1,General,Occupied,2026-08-24
+B0919,H009,General Ward,149,2,General,Available,2026-08-24
+B0920,H009,ICU,149,1,ICU,Occupied,2026-08-24
+B0921,H009,General Ward,150,2,General,Available,2026-08-24
+B0922,H009,Pediatrics,150,1,Pediatric,Available,2026-08-24
+B0923,H009,ICU,151,2,ICU,Available,2026-08-24
+B0924,H009,General Ward,151,1,General,Available,2026-08-24
+B0925,H009,General Ward,152,2,General,Occupied,2026-08-24
+B0926,H009,General Ward,152,1,General,Available,2026-08-24
+B0927,H009,General Ward,153,2,General,Occupied,2026-08-24
+B0928,H009,Pediatrics,153,1,Pediatric,Available,2026-08-24
+B0929,H009,ICU,154,2,ICU,Available,2026-08-24
+B0930,H009,Emergency,154,1,Emergency,Occupied,2026-08-24
+B0931,H009,General Ward,155,2,General,Occupied,2026-08-24
+B0932,H009,General Ward,155,1,General,Available,2026-08-24
+B0933,H009,General Ward,156,2,General,Occupied,2026-08-24
+B0934,H009,Emergency,156,1,Emergency,Occupied,2026-08-24
+B0935,H009,Pediatrics,157,2,Pediatric,Occupied,2026-08-24
+B0936,H009,General Ward,157,1,General,Occupied,2026-08-24
+B0937,H009,Maternity,158,2,Maternity,Available,2026-08-24
+B0938,H009,General Ward,158,1,General,Available,2026-08-24
+B0939,H009,Maternity,159,2,Maternity,Available,2026-08-24
+B0940,H009,General Ward,159,1,General,Occupied,2026-08-24
+B0941,H009,General Ward,160,2,General,Occupied,2026-08-24
+B0942,H009,Pediatrics,160,1,Pediatric,Occupied,2026-08-24
+B0943,H009,General Ward,161,2,General,Occupied,2026-08-24
+B0944,H009,General Ward,161,1,General,Occupied,2026-08-24
+B0945,H009,General Ward,162,2,General,Available,2026-08-24
+B0946,H009,General Ward,162,1,General,Occupied,2026-08-24
+B0947,H009,Emergency,163,2,Emergency,Occupied,2026-08-24
+B0948,H009,Pediatrics,163,1,Pediatric,Available,2026-08-24
+B0949,H009,Pediatrics,164,2,Pediatric,Occupied,2026-08-24
+B0950,H009,General Ward,164,1,General,Occupied,2026-08-24
+B0951,H010,General Ward,100,2,General,Available,2026-08-24
+B0952,H010,General Ward,100,1,General,Occupied,2026-08-24
+B0953,H010,General Ward,101,2,General,Occupied,2026-08-24
+B0954,H010,General Ward,101,1,General,Occupied,2026-08-24
+B0955,H010,Maternity,102,2,Maternity,Occupied,2026-08-24
+B0956,H010,Pediatrics,102,1,Pediatric,Occupied,2026-08-24
+B0957,H010,Pediatrics,103,2,Pediatric,Available,2026-08-24
+B0958,H010,General Ward,103,1,General,Occupied,2026-08-24
+B0959,H010,General Ward,104,2,General,Occupied,2026-08-24
+B0960,H010,General Ward,104,1,General,Available,2026-08-24
+B0961,H010,General Ward,105,2,General,Occupied,2026-08-24
+B0962,H010,General Ward,105,1,General,Occupied,2026-08-24
+B0963,H010,General Ward,106,2,General,Available,2026-08-24
+B0964,H010,General Ward,106,1,General,Occupied,2026-08-24
+B0965,H010,Maternity,107,2,Maternity,Occupied,2026-08-24
+B0966,H010,General Ward,107,1,General,Occupied,2026-08-24
+B0967,H010,Maternity,108,2,Maternity,Occupied,2026-08-24
+B0968,H010,General Ward,108,1,General,Available,2026-08-24
+B0969,H010,ICU,109,2,ICU,Available,2026-08-24
+B0970,H010,General Ward,109,1,General,Occupied,2026-08-24
+B0971,H010,General Ward,110,2,General,Occupied,2026-08-24
+B0972,H010,General Ward,110,1,General,Occupied,2026-08-24
+B0973,H010,General Ward,111,2,General,Occupied,2026-08-24
+B0974,H010,Maternity,111,1,Maternity,Available,2026-08-24
+B0975,H010,General Ward,112,2,General,Occupied,2026-08-24
+B0976,H010,ICU,112,1,ICU,Occupied,2026-08-24
+B0977,H010,General Ward,113,2,General,Occupied,2026-08-24
+B0978,H010,General Ward,113,1,General,Occupied,2026-08-24
+B0979,H010,General Ward,114,2,General,Occupied,2026-08-24
+B0980,H010,General Ward,114,1,General,Available,2026-08-24
+B0981,H010,Maternity,115,2,Maternity,Occupied,2026-08-24
+B0982,H010,Pediatrics,115,1,Pediatric,Available,2026-08-24
+B0983,H010,Emergency,116,2,Emergency,Occupied,2026-08-24
+B0984,H010,General Ward,116,1,General,Occupied,2026-08-24
+B0985,H010,General Ward,117,2,General,Occupied,2026-08-24
+B0986,H010,Maternity,117,1,Maternity,Occupied,2026-08-24
+B0987,H010,General Ward,118,2,General,Occupied,2026-08-24
+B0988,H010,General Ward,118,1,General,Occupied,2026-08-24
+B0989,H010,General Ward,119,2,General,Available,2026-08-24
+B0990,H010,Pediatrics,119,1,Pediatric,Occupied,2026-08-24
+B0991,H010,ICU,120,2,ICU,Occupied,2026-08-24
+B0992,H010,Emergency,120,1,Emergency,Available,2026-08-24
+B0993,H010,Pediatrics,121,2,Pediatric,Occupied,2026-08-24
+B0994,H010,General Ward,121,1,General,Occupied,2026-08-24
+B0995,H010,Maternity,122,2,Maternity,Available,2026-08-24
+B0996,H010,General Ward,122,1,General,Occupied,2026-08-24
+B0997,H010,ICU,123,2,ICU,Available,2026-08-24
+B0998,H010,General Ward,123,1,General,Occupied,2026-08-24
+B0999,H010,Maternity,124,2,Maternity,Occupied,2026-08-24
+B1000,H010,General Ward,124,1,General,Occupied,2026-08-24
+B1001,H010,General Ward,125,2,General,Occupied,2026-08-24
+B1002,H010,General Ward,125,1,General,Occupied,2026-08-24
+B1003,H010,General Ward,126,2,General,Occupied,2026-08-24
+B1004,H010,General Ward,126,1,General,Available,2026-08-24
+B1005,H010,ICU,127,2,ICU,Occupied,2026-08-24
+B1006,H010,General Ward,127,1,General,Occupied,2026-08-24
+B1007,H010,Maternity,128,2,Maternity,Occupied,2026-08-24
+B1008,H010,General Ward,128,1,General,Occupied,2026-08-24
+B1009,H010,Emergency,129,2,Emergency,Occupied,2026-08-24
+B1010,H010,General Ward,129,1,General,Occupied,2026-08-24
+B1011,H010,Emergency,130,2,Emergency,Occupied,2026-08-24
+B1012,H010,ICU,130,1,ICU,Occupied,2026-08-24
+B1013,H010,General Ward,131,2,General,Occupied,2026-08-24
+B1014,H010,Maternity,131,1,Maternity,Occupied,2026-08-24
+B1015,H010,General Ward,132,2,General,Available,2026-08-24
+B1016,H010,General Ward,132,1,General,Available,2026-08-24
+B1017,H010,Emergency,133,2,Emergency,Available,2026-08-24
+B1018,H010,Pediatrics,133,1,Pediatric,Available,2026-08-24
+B1019,H010,General Ward,134,2,General,Available,2026-08-24
+B1020,H010,General Ward,134,1,General,Occupied,2026-08-24
+B1021,H010,Maternity,135,2,Maternity,Occupied,2026-08-24
+B1022,H010,Emergency,135,1,Emergency,Available,2026-08-24
+B1023,H010,Maternity,136,2,Maternity,Occupied,2026-08-24
+B1024,H010,General Ward,136,1,General,Occupied,2026-08-24
+B1025,H010,Emergency,137,2,Emergency,Occupied,2026-08-24
